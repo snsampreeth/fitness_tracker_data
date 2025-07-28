@@ -63,8 +63,8 @@
     <li>Building health and fitness dashboards</li>
   </ul>
 
-  <h2>📄 License</h2>
-  <p>This dataset is for personal or educational use only. Redistribution or commercial use requires permission.</p>
+  
+  <p>The data is extracted from kaggle browser</p>
 
 </body>
 </html>
