@@ -2,39 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Workout Fitness Tracker Dataset - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      background-color: #fff;
-    }
-    table, th, td {
-      border: 1px solid #bbb;
-    }
-    th, td {
-      padding: 12px;
-      text-align: left;
-    }
-    th {
-      background-color: #3498db;
-      color: white;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-  </style>
+  
+  
 </head>
 <body>
 
